@@ -1,0 +1,13 @@
+WHAT IS TYPESCRIPT
+- Programming languange that build by Microsoft to address shortcomings
+  of Javascript
+
+- Typescript membuat codingan JS jadi lebih rapi dan berasa "OOP" karena
+  menawarkan :
+	- static typing
+	- code completion
+	- refactoring
+	- shorthand notations
+
+ALUR COMPILE TYPESCRIPT
+code typescript (.ts) => Compiler code javascript (.js)
